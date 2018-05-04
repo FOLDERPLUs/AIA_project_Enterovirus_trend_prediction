@@ -1,17 +1,20 @@
 # AIA_project_Enterovirus_trend_prediction
-This is a project which we have to use ML or DL to predict the trend of enterovirus in following weeks.
+## This is a project which we have to use ML or DL to predict the trend of enterovirus in following weeks.
 
 #### Six big cities in Taiwan.We can see the difference between the regions and the years.
 ![img](https://github.com/FOLDERPLUs/AIA_project_Enterovirus_trend_prediction/blob/master/images/EDA_Six_City_2008_2017_patient_times.png)
 
-#### Features
+### Features
 ![img](https://github.com/FOLDERPLUs/AIA_project_Enterovirus_trend_prediction/blob/master/images/EDA_five_features.png)
 
-EDA
+### EDA
+
+Google trend, Average Temperature, Average Humidity, PM2.5, Vacation
 
 ![img](https://github.com/FOLDERPLUs/AIA_project_Enterovirus_trend_prediction/blob/master/images/EDA1.png)
 
 Air_polutions
+
 ![img](https://github.com/FOLDERPLUs/AIA_project_Enterovirus_trend_prediction/blob/master/images/EDA2.png)
 
 ### XGB
