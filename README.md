@@ -5,11 +5,12 @@
 ![img](https://github.com/FOLDERPLUs/AIA_project_Enterovirus_trend_prediction/blob/master/images/EDA_Six_City_2008_2017_patient_times.png)
 
 ### Features
+
+Google trend, Average Temperature, Average Humidity, PM2.5, Vacation
+
 ![img](https://github.com/FOLDERPLUs/AIA_project_Enterovirus_trend_prediction/blob/master/images/EDA_five_features.png)
 
 ### EDA
-
-Google trend, Average Temperature, Average Humidity, PM2.5, Vacation
 
 ![img](https://github.com/FOLDERPLUs/AIA_project_Enterovirus_trend_prediction/blob/master/images/EDA1.png)
 
