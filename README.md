@@ -23,3 +23,5 @@ Air_polutions
 
 ### LSTM
 ![img](https://github.com/FOLDERPLUs/AIA_project_Enterovirus_trend_prediction/blob/master/images/LSTM_Taipei_with_features.png)
+
+#### AIA 鐘智瑋 吳曉雯 張哲嘉 黃茂維 Collaborate together
